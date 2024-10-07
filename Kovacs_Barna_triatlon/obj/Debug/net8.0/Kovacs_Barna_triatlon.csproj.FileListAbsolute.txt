@@ -1,0 +1,14 @@
+C:\Users\kovacs.barna\Desktop\Kovacs_Barna_triatlon\obj\Debug\net8.0\Kovacs_Barna_triatlon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kovacs.barna\Desktop\Kovacs_Barna_triatlon\obj\Debug\net8.0\Kovacs_Barna_triatlon.AssemblyInfoInputs.cache
+C:\Users\kovacs.barna\Desktop\Kovacs_Barna_triatlon\obj\Debug\net8.0\Kovacs_Barna_triatlon.AssemblyInfo.cs
+C:\Users\kovacs.barna\Desktop\Kovacs_Barna_triatlon\obj\Debug\net8.0\Kovacs_Barna_triatlon.csproj.CoreCompileInputs.cache
+C:\Users\kovacs.barna\Desktop\Kovacs_Barna_triatlon\bin\Debug\net8.0\Kovacs_Barna_triatlon.exe
+C:\Users\kovacs.barna\Desktop\Kovacs_Barna_triatlon\bin\Debug\net8.0\Kovacs_Barna_triatlon.deps.json
+C:\Users\kovacs.barna\Desktop\Kovacs_Barna_triatlon\bin\Debug\net8.0\Kovacs_Barna_triatlon.runtimeconfig.json
+C:\Users\kovacs.barna\Desktop\Kovacs_Barna_triatlon\bin\Debug\net8.0\Kovacs_Barna_triatlon.dll
+C:\Users\kovacs.barna\Desktop\Kovacs_Barna_triatlon\bin\Debug\net8.0\Kovacs_Barna_triatlon.pdb
+C:\Users\kovacs.barna\Desktop\Kovacs_Barna_triatlon\obj\Debug\net8.0\Kovacs_Barna_triatlon.dll
+C:\Users\kovacs.barna\Desktop\Kovacs_Barna_triatlon\obj\Debug\net8.0\refint\Kovacs_Barna_triatlon.dll
+C:\Users\kovacs.barna\Desktop\Kovacs_Barna_triatlon\obj\Debug\net8.0\Kovacs_Barna_triatlon.pdb
+C:\Users\kovacs.barna\Desktop\Kovacs_Barna_triatlon\obj\Debug\net8.0\Kovacs_Barna_triatlon.genruntimeconfig.cache
+C:\Users\kovacs.barna\Desktop\Kovacs_Barna_triatlon\obj\Debug\net8.0\ref\Kovacs_Barna_triatlon.dll
